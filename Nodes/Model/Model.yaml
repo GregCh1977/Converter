@@ -1,0 +1,13 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: Variable1
+  Id: g=35c9e698fa0fc7bbac9f36bcefd9caac
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "czesc"
+- Name: Variable2
+  Id: g=ffecdbbd0839e7dc08e9a865764f8ab6
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "co slychac"
