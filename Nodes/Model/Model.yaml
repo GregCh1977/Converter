@@ -11,3 +11,13 @@ Children:
   Type: BaseDataVariableType
   DataType: String
   Value: "co slychac"
+- Name: Variable3
+  Id: g=39af73fb1f12c51dd6619d26d0ef7599
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 10
+- Name: Variable4
+  Id: g=533354ebcae71d1117a9b9931224b520
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
